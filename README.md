@@ -1,2 +1,6 @@
 # ai-ece469
-projects done for Artificial Intelligence Class at Cooper Union
+Artificial Intelligence Projects at The Cooper Union
+
+Fall 2017
+
+Instructor: Carl Sable
